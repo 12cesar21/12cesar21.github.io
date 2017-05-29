@@ -1,30 +1,52 @@
 @CHARSET "UTF-8";
-
-.w3-content{
-	background-image: url("img/musica.jpg");
-}
-.img-left{
-	width: 80%; height:200px;margin-left: 10%;margin-right: 10%; margin-top: 20px; margin-bottom: 10px;
-}
-
-.img-rigth{
-	width: 80%; height:100px;margin-left: 10%;margin-right: 10%; margin-top: 20px; margin-bottom: 10px;
+.fila-1 , .fila-2, .fila-3{
+	width: 90%;
+	height: 400px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
-.pie-left{
-	width: 30%; 
-	margin-top: 30px; 
+.colum-1 , .colum-2, .colum-3{
 	float: left;
-	margin-left: 50px;
+	width: 27.33%;
+	height: 100%;
+	margin-left: 3%;
+	margin-right: 3%;
+	background-color: #ffffff;
 }
 
-.pie-rigth{
-	width: 30%; 
-	float: left; 
-	margin-top: 30px; 
-	margin-left: 50px;
+.img-concierto{
+	width: 94%;
+	height: 200px;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
-#pie{
-	background-color: black;
+.img-grupos{
+	width: 100%;
+	height: 100%;
+}
+
+.contenido{
+	width: 90%;
+	height: 150px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.contenido p {
+	font-size: 13px;
+	margin-bottom: 3px;
+	margin-top: 2px;
+}
+
+
+.presentaciones{
+	color: red;
 }
