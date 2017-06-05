@@ -9,6 +9,7 @@
       .carousel-inner img {
       width: 100%; /* Set width to 100% */
       margin: auto;
+      height: 150px;
   }
 
   @media (max-width: 600px) {
