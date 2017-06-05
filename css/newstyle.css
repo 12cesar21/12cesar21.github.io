@@ -6,8 +6,10 @@
     }
         
       .carousel-inner img {
-      width: 100%; /* Set width to 100% */
-      margin: auto;
+      width: 90%; /* Set width to 100% */
+      margin-left:5%;
+      margin-right:5%;
+      margin-top:20px;
       min-height:200px;
   }
 
